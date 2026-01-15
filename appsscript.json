@@ -1,0 +1,17 @@
+{
+  "timeZone": "America/Chicago",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Center",
+      "functionName": "Center"
+    }, {
+      "menuName": "Clear Extra Rows",
+      "functionName": "cleanUpSheet",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }]
+  }
+}
